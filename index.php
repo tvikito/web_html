@@ -37,7 +37,7 @@
         <nav id="menu" role="navigation">
             <ul>
                 <li><a href="https://github.com/tvikito" target="_blank" title="Little from my work">Github</a></li>
-                <li><a href="https://teamtreehouse.com/tomasvykoukal" target="_blank" title="Look daddy what I learn already!">Learning</a></li>
+                <li><a href="https://teamtreehouse.com/tomasvykoukal" target="_blank" title="Look daddy what I've learned already!">Learning</a></li>
             </ul>
             <ul>
                 <li><a href="https://www.linkedin.com/in/tomasvykoukal/" target="_blank" title="My success. Or...?">LinkedIn</a>

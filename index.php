@@ -31,17 +31,6 @@
         <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script>
-            $(document).ready(function(){
-                $("#nav-icon").click(function(){
-                    $("body").toggleClass("sidemenu--open");
-                });
-
-                $("#darker").click(function(){
-                    $("body").removeClass("sidemenu--open");
-                });
-            });
-        </script>
     </head>
 
     <body>
@@ -96,5 +85,16 @@
                 </footer>
             </div>
         </div>
+        <script>
+            $(document).ready(function(){
+                $("#nav-icon").click(function(){
+                    $("body").toggleClass("sidemenu--open");
+                });
+
+                $("#darker").click(function(){
+                    $("body").removeClass("sidemenu--open");
+                });
+            });
+        </script>
     </body>
 </html>

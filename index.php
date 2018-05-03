@@ -81,7 +81,7 @@
                     </div>
                 </header>
 
-                <section class="row margin_left-right--auto margin_top-bottom--auto padding-15 padding-tb-20" id="main-content-front">
+                <main class="row margin_left-right--auto margin_top-bottom--auto padding-15 padding-tb-20" id="main-content-front">
 
                     <article>
                         <img class="img-ja" src="/img/ja_100.jpg" srcset="/img/ja_100.jpg, /img/ja_200.jpg" width="100" height="100" alt="Tomáš Vykoukal">
@@ -89,7 +89,7 @@
                         <p></p>
                     </article>
 
-                </section>
+                </main>
 
                 <footer class="padding-10" role="contentinfo">
                     <p><small>© <?php echo date("Y"); ?> created with my youngest sister and oldest grandma<br>by <abbr title="papa means Italian father">papa</abbr> Tomas</small></p>
